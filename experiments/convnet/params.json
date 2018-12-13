@@ -1,0 +1,20 @@
+{
+    "model_version": "convnet",
+    
+
+    "learning_rate": 0.0001,
+    "batch_size": 36,
+    "num_epochs": 10,
+    "dropout_rate": 0.3,
+    "class_num": 6,
+    "features_len":20,
+	"m0" :4472636,
+	"m1":129066,
+	"m2":99562,
+	"m3":45351,
+	"m4":41300,
+	"m5":35516,
+   
+    "save_summary_steps": 100
+
+}
